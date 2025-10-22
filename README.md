@@ -18,7 +18,7 @@ This project demonstrates how to build a multilingual semantic search and RAG pi
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/Yunus-cmd835/ssa-mariadb-vector.git
+git clone https://github.com/Yunus-cmd835/ssa-mariadb-vector/tree/main.git
 cd ssa-mariadb-vector
 
 pip install -r requirements.txt
