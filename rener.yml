@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: mariadb-vector-app
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py
+    plan: free
