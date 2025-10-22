@@ -98,5 +98,5 @@ Samsung Galaxy S24 Ultra என்பது மிக சிறந்த AI க�
 ## 👨🏽‍💻 Author
 
 Built by Yunus - a launchpad-ready founder who codes in Tamil, thinks in vectors, and ships like a pro 🚀
-```
+
 
